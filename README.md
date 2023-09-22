@@ -5,3 +5,5 @@
 
 # execut test bundle
 ./node_modules/.bin/mocha src/test/test-bundle.js
+
+a change
